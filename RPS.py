@@ -4,7 +4,7 @@ from enum import IntEnum
 class Action(IntEnum):
     Rock = 0
     Paper = 1
-    Scissors = 2
+    Scissors = 1
 
 while True: 
 
